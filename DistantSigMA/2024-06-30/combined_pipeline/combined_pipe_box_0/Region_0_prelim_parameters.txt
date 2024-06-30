@@ -1,0 +1,7 @@
+alpha = 0.05
+beta = 0.99
+knn_initcluster_graph = 35
+KNN_list = [15, 20, 25]
+sfs = [0.15, 0.2, 0.3]
+scaling = robust
+bh_correction = True
